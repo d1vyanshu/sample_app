@@ -6,7 +6,7 @@ ruby '2.5.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.2'
 
-gem 'rails-controller-testing'
+
 
 gem 'bootstrap-sass'
 
@@ -44,6 +44,7 @@ group :development, :test do
   gem 'sqlite3', '~>1.3.6'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
+  gem 'rails-controller-testing'
 end
 
 group :development do
