@@ -8,6 +8,12 @@ gem 'rails', '~> 5.2.2'
 
 gem 'bcrypt'
 
+gem 'faker'
+
+gem 'will_paginate'
+
+gem 'bootstrap-will_paginate'
+
 gem 'bootstrap-sass'
 
 gem 'jquery-rails'

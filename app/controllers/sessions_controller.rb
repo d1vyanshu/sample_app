@@ -12,7 +12,7 @@ class SessionsController < ApplicationController
         remember user
       else forget user
       end
-      redirect_to user
+      redirect_back_or(user_path(user))
     else
       flash.now[:danger] = "Invalid Email/Password"
       render 'new'
