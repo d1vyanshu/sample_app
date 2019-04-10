@@ -18,10 +18,10 @@ $ rails db:migrate
 
 If sample users are required for testng:
 
-...
+```
 
 $ rails db:seed
-...
+```
 
 
 Finally, run the tests to verify that everything is working correctly:
