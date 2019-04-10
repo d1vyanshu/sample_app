@@ -19,7 +19,6 @@ $ rails db:migrate
 If sample users are required for testng:
 
 ```
-
 $ rails db:seed
 ```
 
