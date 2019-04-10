@@ -1,6 +1,6 @@
 # Sample app for practising ruby
 
-This is a sample app to learn developing a twitter like web app with ruby on rails. It is developed taking help from railstutorial.org/book. The user model has been implemented and login, signup form are working. The user profile editting is also working. The app is written giving administrative rights to a user to delete any user. Microposts and following features are still to be deployed.
+This is a sample app to learn developing a twitter like web app with ruby on rails. It is developed taking help from railstutorial.org/book. The user model has been implemented and login, signup form are working. The user profile editting is also working. This app also includes suoeruser giving administrative rights to delete any user. Microposts and following oher users features are still to be deployed.
 
 ## Getting started
 
